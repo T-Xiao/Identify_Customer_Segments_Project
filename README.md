@@ -1,7 +1,7 @@
 
-## Udacity-Identify-Customer-Segments-Project
-### Data Scientist Nanodegree
-### Supervised Learning
+# Udacity-Identify-Customer-Segments-Project
+# Data Scientist Nanodegree
+# Supervised Learning
 ## Project: Finding Donors for CharityML
 
 ### Install
